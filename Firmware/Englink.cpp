@@ -18,7 +18,7 @@ void setup() {
   Serial.begin(115200);
 
   if(!display.begin(SSD1306_SWITCHCAPVCC, 0x3C)) {
-    Serial.println("Display failed");
+    Serial.println("Display failed :(");
     while(1);
   }
   
@@ -26,7 +26,7 @@ void setup() {
   display.setTextSize(1);
   display.setTextColor(SSD1306_WHITE);
   display.setCursor(0, 10);
-  display.println("System starting");
+  display.println("I am starting XD");
   display.display();
 
   twai_general_config_t g_config = TWAI_GENERAL_CONFIG_DEFAULT(CAN_TX_PIN, CAN_RX_PIN, TWAI_MODE_NORMAL);
@@ -35,7 +35,7 @@ void setup() {
 
   if (twai_driver_install(&g_config, &t_config, &f_config) == ESP_OK) {
     if (twai_start() == ESP_OK) {
-      display.println("CAN working");
+      display.println("CAN workingb :)");
       display.display();
     } else {
       display.println("CAN isnt working");
