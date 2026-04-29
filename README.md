@@ -107,6 +107,8 @@ The custom enclosure was modeled in **Onshape** and is split into 2 main 3D prin
 | FLUX soldering paste  | - | Noel FLUX soldering paste | 1 | $ .5 | [Robu](https://robu.in/product/noel-flux-soldering-paste-10g) |
 | Solder Wire  | - | Solder Wire 50g | 1 | $3 | [Knowledgeelectronics](https://knowledgeelectronics.com/product/solder-wire-50gm-60-40/) |
 
+TOTAL ~ $56 
+
 
 ---
 
