@@ -61,12 +61,12 @@ The custom enclosure was modeled in **Onshape** and is split into 2 main 3D prin
 ---
 
 ## ✨ Features
-* **Brain:** ESP32 WROOM 32
-* **Face:** 1.3" OLED Display 
+* **MCU:** ESP32 WROOM 32
+* **Display:** 1.3" OLED Display 
 * **Communication:** On board CAN Transceiver interacting with the ESP32's native TWAI controller
-* **Controls:** * KCD11 Rocker Switch for Main Power
-  * SS12F15 Slide Switch for 120-ohm CAN Bus Termination
-  * Tactile Push Buttons for EN & BOOT (Programming)
+* **Controls:**  * KCD11 Rocker Switch for Main Power
+                 * SS12F15 Slide Switch for 120-ohm CAN Bus Termination
+                 * Tactile Push Buttons for EN & BOOT (Programming)
 * **Firmware:** C/C++
 
 ---
