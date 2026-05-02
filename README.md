@@ -6,12 +6,12 @@ ENGLINK is custom designed low cost car engine scanner that interfaces directly 
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 The primary purpose of ENGLINK is to explore automotive communication networks, specifically the CAN (Controller Area Network) protocol by designing a custom hardware interface from scratch, my goal was to interact directly with a vehicle's Engine Control Unit (ECU) in real world conditions. The ultimate vision for this project is to engineer a clean, pocket sized tool that provides instant, critical engine stats on the go.
 
 ---
 
-## 🛠️ Hardware & PCB Design
+##  Hardware & PCB Design
 This PCB was designed in Altium Designer.
 
 ### Schematics
@@ -33,7 +33,7 @@ This PCB was designed in Altium Designer.
 
 ---
 
-## 📦 Mechanical Design (Enclosure)
+## Mechanical Design (Enclosure)
 The custom enclosure was modeled in **Onshape** and is split into 2 main 3D printable parts.
 🔗 **[View 3D Model on Onshape](https://cad.onshape.com/documents/fb16a13bf66195b204bddbb0/w/9e57cceb297baca0e2841830/e/1cae4563a1118500ba7b1aec)**
 
@@ -60,7 +60,7 @@ The custom enclosure was modeled in **Onshape** and is split into 2 main 3D prin
 
 ---
 
-## ✨ Features
+## Features
 * **MCU:** ESP32 WROOM 32
 * **Display:** 1.3" OLED Display 
 * **Communication:** On board CAN Transceiver interacting with the ESP32's native TWAI controller
@@ -71,7 +71,7 @@ The custom enclosure was modeled in **Onshape** and is split into 2 main 3D prin
 
 ---
 
-## 🛒 Bill of Materials (BOM)
+## Bill of Materials (BOM)
 
 | Item / Part | Designator | Description / Purpose | Qty | Price | Source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
