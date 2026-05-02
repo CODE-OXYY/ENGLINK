@@ -1,5 +1,5 @@
 # ENGLINK
-ENGLINK is a low cost custom designed car engine scanning solution that utilizes CAN protocol to communicate with the engine control unit of a car, it displays real time car parameters like Engine RPM, Coolant Temperature, and Vehicle Speed and display them on an onboard 1.3 inch OLED display
+ENGLINK is a low cost custom designed car engine scanning solution that utilizes CAN protocol to communicate with the engine control unit of a car, it displays real time car parameters like Engine RPM, Coolant Temperature, and Vehicle Speed and display them on an onboard 1.3 inch OLED display.
 
 ![Cad model](Assets/9CadB.png)
 *Figure: The final 3D rendered vision of the ENGLINK pocket scanner.*
@@ -7,7 +7,7 @@ ENGLINK is a low cost custom designed car engine scanning solution that utilizes
 ---
 
 ##  Purpose
-The primary purpose of ENGLINK is to explore automotive communication networks, specifically the CAN (Controller Area Network) protocol by designing a custom hardware interface from scratch, my goal was to interact directly with a vehicle's Engine Control Unit (ECU) in real world conditions. The ultimate vision for this project is to engineer a clean, pocket sized tool that provides instant, critical engine stats on the go.
+The primary objective of ENGLINK was to develop a cost effective pocket size device that can help people monitor their car health and real time data without any service center or fancy equipment. Learning CAN protocol was another objective of this project.
 
 ---
 
